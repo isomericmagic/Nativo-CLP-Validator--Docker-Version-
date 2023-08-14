@@ -21,7 +21,7 @@ or\
 if you want to rebuild the container from scratch. Then just navigate to the following url:\
 http://127.0.0.1:5000/ \
 in your browser and enter the url you want to test. For example, this url:\
-https://www.chicagotribune.com/paid-posts/ 
+https://www.chicagotribune.com/paid-posts/ \
 is a valid url that you could use to see a page with some tags that need to be updated. You could also test a page that doesn't exist like this one:\
 https://www.nativo.com/thisisnotarealpage 
 
