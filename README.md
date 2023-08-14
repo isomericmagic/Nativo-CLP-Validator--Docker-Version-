@@ -9,7 +9,7 @@ This is a dockerized version of a single page web app that I wrote while working
  
 We would also recommend adding the following tag:\
 `<meta name="robots" content="noindex, nofollow" />` \
-on the CLP to avoid being penalized or even delisted from Google results.
+on the CLP to avoid being penalized or even delisted from google results.
 
 This script analyzes the url that is entered into the form field and evaluates the response from the website to determine if these elements exist on the page and make recommendations based on the response. I originally wrote it as a standalone flask app, but eventually learned docker and figured it would be better as a docker app since this would enable users to get it up and running without having to worry about installing python locally and setting up a virtual environment for flask.
 
